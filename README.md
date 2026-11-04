@@ -1,5 +1,6 @@
 # Sre-Github-Lab
 Requirements documentation for a Student Task Tracker
+Online ID Card Application and Management System
 ## Overview
 Applying for or renewing a national ID card currently requires repeated visits to registration centers, long waits, travel costs, and little visibility into application progress. This project proposes a web platform, working with NADRA, that lets citizens apply, upload documents, pay fees, and track their application online. Physical visits remain only where biometric verification requires them. The intended benefit is fewer visits, shorter waits, and a more transparent process for applicants and staff.
 
